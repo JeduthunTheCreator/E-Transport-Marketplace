@@ -1,0 +1,3 @@
+C:/Users/idemu/OneDrive/Desktop/E-transport Marketplace/client/build/CMakeFiles/dashboard.dir
+C:/Users/idemu/OneDrive/Desktop/E-transport Marketplace/client/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/idemu/OneDrive/Desktop/E-transport Marketplace/client/build/CMakeFiles/ZERO_CHECK.dir

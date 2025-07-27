@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\idemu\OneDrive\Desktop\E-transport Marketplace\client\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\idemu\OneDrive\Desktop\E-transport Marketplace\client\src\Dashboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\idemu\OneDrive\Desktop\E-transport Marketplace\client\src\CargoOwner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\idemu\OneDrive\Desktop\E-transport Marketplace\client\src\Driver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\idemu\OneDrive\Desktop\E-transport Marketplace\client\src\LoginLogout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\idemu\OneDrive\Desktop\E-transport Marketplace\client\src\SocketConnection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\idemu\OneDrive\Desktop\E-transport Marketplace\client\src\TransportCompany.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\idemu\OneDrive\Desktop\E-transport Marketplace\client\include\dashboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\idemu\OneDrive\Desktop\E-transport Marketplace\client\include\main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\idemu\OneDrive\Desktop\E-transport Marketplace\client\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BA4E30D4-6C92-37AF-8AF4-5E58D50FF3EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BC944E75-E266-35C9-A911-7999AD95EEAE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
